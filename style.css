@@ -1,0 +1,45 @@
+body{
+    background-color:hsl(30, 38%, 92%)
+}
+div{
+    margin: 125px 450px;    
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px  
+}
+p{
+    padding-left: 18px;
+    padding-right: 18px;
+    display: inline-block;
+    font-size: 14px
+}
+
+b{
+    font-size: 24px;
+}
+
+.lastprice{
+    color: hsl(158, 36%, 37%)
+}
+
+
+img {
+    display: inline-block;
+    width: 210px;
+    height: 300px
+}
+
+button{
+    padding: 10px 44px;
+    background-color:hsl(158, 36%, 37%);
+    color: white;
+    border-radius: 10px;
+    border-color: white
+}
+
+del{
+    margin-left: 25px;
+    margin-bottom: 30px
+}
+
+
+ 
