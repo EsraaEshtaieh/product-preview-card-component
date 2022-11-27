@@ -24,6 +24,7 @@ b{
 
 img {
     display: inline-block;
+    background-size: cover;
     width: 210px;
     height: 300px
 }
