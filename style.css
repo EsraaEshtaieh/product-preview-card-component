@@ -23,11 +23,11 @@ b{
 
 
 img {
-    display: inline-block;
-    background-size: cover;
-    width: 210px;
-    height: 300px;
-    border-radius:10px
+  
+   width: 100%;
+    object-fit: cover;
+    vertical-align: middle;
+    border-radius: 15px;
 }
 
 button{
