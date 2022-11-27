@@ -25,8 +25,8 @@ b{
 img {  
     display: inline-block;
     width:210px;
-    height: 300px;
-    border-radius:10px
+    height: 300px
+    
 }
 
 button{
