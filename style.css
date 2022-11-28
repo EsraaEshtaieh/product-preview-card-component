@@ -2,14 +2,14 @@ body{
     background-color:hsl(30, 38%, 92%)
 }
 div{
-    margin: 125px 450px;    
+    margin: 125px 450px;   
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px  
 }
 p{
     padding-left: 18px;
     padding-right: 18px;
-    display: inline-block;
+    display:inline-block;
     font-size: 14px
 }
 
@@ -22,14 +22,14 @@ b{
 }
 
 
-img {  
-    border-radius:10px;
-    width:230px;
+img {
+        border-radius: 10px;
+    width: 210px;
     height: 300px
-    
 }
 
 button{
+    margin-bottom: 0px;
     padding: 10px 44px;
     background-color:hsl(158, 36%, 37%);
     color: white;
